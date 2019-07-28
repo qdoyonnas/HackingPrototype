@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 2524ce00be069ae4cbbbe605e29ddc7c
+timeCreated: 1513204703
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Share-TechMono
+  fontNames:
+  - Share-TechMono
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
